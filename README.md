@@ -1,5 +1,5 @@
 # xbee
-X-Bee Pro S38 Real-Time Telemetry
+X-Bee Pro S38 Real-Time Telemetry Project
 
 X-Bee is a family of rf-based components created by Digi that are used for various projects, including rocketry. You can find out more information about the ecosystem here:
 <br/>https://www.digi.com/xbee
