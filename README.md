@@ -13,7 +13,7 @@ The TLDR version is:
 1) Download and Install XCTU:
 <br/>https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/xctu
 
-2) Download the XBee-Pro SDK, I found a copy here:
+2) Download the Programmable XBee-Pro SDK, I found a copy here:
 <br/>https://www.digi.com/resources/documentation/Digidocs/90002126/concepts/c_programmable_xbee_sdk.htm?tocpath=Hardware%7C_____5
 <br/>(please let me know if this is no longer active)
 
