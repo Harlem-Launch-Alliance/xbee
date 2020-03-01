@@ -4,7 +4,7 @@ X-Bee Pro S38 Real-Time Telemetry Project
 X-Bee is a family of rf-based components created by Digi that are used for various projects, including rocketry. You can find out more information about the ecosystem here:
 <br/>https://www.digi.com/xbee
 
-It's expected that the HLA Messenger and Aries projects will ultimately use XBee hardware for their on-board-to-ground communications. The HLA org has at least 5 XBee Pro S38 components. Consider this: without real-time telemetry, a lot of stuff, including location data, is simply not available
+It's expected that the HLA Messenger and Aries projects will ultimately use XBee hardware for their on-board-to-ground communications. The HLA org has serveral XBee Pro S38 components. Without real-time telemetry, a lot of stuff including location data is not available to ground crews.
 
 In order to accomplish this, we need to read this document: 
 <br/>https://www.digi.com/resources/documentation/digidocs/pdfs/90001496.pdf
