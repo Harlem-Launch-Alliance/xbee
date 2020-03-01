@@ -13,6 +13,6 @@ https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/xctu
 
 2) Download the XBee-Pro SDK, I found a copy here:
 https://www.digi.com/resources/documentation/Digidocs/90002126/concepts/c_programmable_xbee_sdk.htm?tocpath=Hardware%7C_____5
-(please let me know if this is no longer active)
+<br/>(please let me know if this is no longer active)
 
-3) go nuts, you're in the lead
+3) show us a thing or two, you're in the lead!
