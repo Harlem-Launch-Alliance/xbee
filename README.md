@@ -19,8 +19,7 @@ The TLDR version is:
 <br/>http://ftp1.digi.com/support/sampleapplications/40003004_B.exe
 
 2) Download the Programmable XBee-Pro SDK, I found a copy here:
-<br/>https://www.digi.com/resources/documentation/Digidocs/90002126/concepts/c_programmable_xbee_sdk.htm?tocpath=Hardware%7C_____5
-<br/>(please let me know if this is no longer active)
+<br/>http://ftp1.digi.com/support/sampleapplications/40003003_D.exe
 
 3) To use UART serial communication with an Arduino or similar microcontroller, take a look at this document as well:
 <br/>https://www.digi.com/resources/documentation/digidocs/90002173/Default.htm
