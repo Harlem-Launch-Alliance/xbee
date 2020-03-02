@@ -22,4 +22,5 @@ The TLDR version is:
 3) To use UART serial communication with an Arduino or similar microcontroller, take a look at this document as well:
 <br/>https://www.digi.com/resources/documentation/digidocs/90002173/Default.htm
 
-4) show us a thing or two, you're in the lead!
+3/2/2020:
+We've made some progress towards setting up a priliminary network today using 2 XBee Pro S3Bs connected to my laptop. See the XSC DigiMesh 2.4 Getting Started Guide, pg. 15-17 for details. 
