@@ -26,3 +26,6 @@ The TLDR version is:
 
 3/2/2020:
 <br/>We've made some progress towards setting up a priliminary network today using 2 XBee Pro S3Bs connected to my laptop. See the XSC DigiMesh 2.4 Getting Started Guide, pg. 15-17 for details. 
+
+3/4/2020
+<br/>Got a proof-of-concept working! Watch it here: https://youtu.be/lZpra1dyEhU
